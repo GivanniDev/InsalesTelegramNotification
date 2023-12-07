@@ -38,5 +38,6 @@
 4. Вставьте код в HTML-разметку
 5. Укажите Токен бота и ID чата
 
-*Givanni Versace* - [Телеграм](https://t.me/VersaceGivanni)
+*Givanni Versace* 
+[Write to me](https://t.me/VersaceGivanni)
 
