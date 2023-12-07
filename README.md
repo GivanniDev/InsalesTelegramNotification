@@ -39,5 +39,5 @@
 5. Укажите Токен бота и ID чата
 
 *Givanni Versace* 
-[Write to me](https://t.me/VersaceGivanni)
+
 
